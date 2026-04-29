@@ -2,5 +2,8 @@
 - File: `solutions/exercise-01-homework.py`
 - Status: completed
 - Notes:
-  - computed averages for rating and one additional numeric column
+  - computed averages for rating and one additional numeric column - avg runtime min score, and output number ofmovies with an IMDB rating>= 8.0
+  - printedd number of rows in CSV
+  - Only used CSV python module import
+  - Ignored and also printed header of CSV
   - handled missing or invalid values safely during computations
