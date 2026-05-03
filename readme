@@ -10,3 +10,8 @@
 ## 01 (Session 2 )
 - Learned to access CSV columns by name with DictReader.
 - Learned to combine dictionary access with counters and break.
+## 02 (Session 2 )
+- Learned to use DictReader/DictWriter for clearer code.
+- Learned to clean missing values and save cleaned outputs.
+- Complexity summary:
+  - single-pass cleaning: time O(n), space O(n)
