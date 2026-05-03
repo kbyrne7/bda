@@ -7,3 +7,6 @@
   - Only used CSV python module import
   - Ignored and also printed header of CSV
   - handled missing or invalid values safely during computations
+## 01 (Session 2 )
+- Learned to access CSV columns by name with DictReader.
+- Learned to combine dictionary access with counters and break.
